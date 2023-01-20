@@ -1,0 +1,2 @@
+pacmd list-cards
+pacmd set-card-profile alsa_card.pci-0000_00_0e.0 output:hdmi-stereo
