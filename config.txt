@@ -1,0 +1,5 @@
+ pour connaitre la config
+ inxi -F
+ 
+ pour connaitre le bureau
+ echo "${XDG_CURRENT_DESKTOP}"
